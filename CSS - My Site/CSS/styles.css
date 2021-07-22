@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #40514E;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+h1 {
+  margin: 50px 0 0 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.65rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Mandali', sans-serif;
+  font-size: 2rem;
+  margin: 0 0;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  padding: 15px;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+a:hover {
+  color: #EAF6F6 ;
+}
+
+.middle-container {
+  margin : 100px 0;
+}
+
+.bottom-container {
+background-color: #66BFBF;
+margin-bottom: 0;
+margin-top: 100px;
+padding: 50px 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+p {
+  line-height: 2;
+}
+
+.german-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.game-icon {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+hr {
+  border-top: 5px dotted grey;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.btn {
+  background-color: #66BFBF;
+  border-radius: 5px;
+  padding : 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.hehe {
+  margin-bottom: 80px;
+}
+
+.copy{
+  color: #EAF6F6;
+  padding-top: 10px;
+  font-size: 0.75rem;
+}

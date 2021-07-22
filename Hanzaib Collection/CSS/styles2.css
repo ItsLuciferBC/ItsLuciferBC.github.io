@@ -1,0 +1,27 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif; */
+body {
+
+}
+
+/* Navigation bars */
+.navbar {
+background-color: #d8705c;
+padding-top: 0;
+padding-bottom: 0;
+}
+
+.navbar-brand {
+  font-size: 1rem;
+}
+.navbar-nav {
+  text-align: right;
+}
+
+.social-logo {
+  color: #fff;
+}
+/* Middle Navigation Bar */
+.brand-logo {
+  width: 7%;
+}

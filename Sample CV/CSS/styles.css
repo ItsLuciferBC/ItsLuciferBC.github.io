@@ -1,0 +1,98 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+header {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+  color: #66CCFF;
+  font-family: 'Montserrat', sans-serif
+}
+.row {
+  display: flex;
+}
+
+.skills, .education, .experience, .about, .languages, .address {
+  flex: 1;
+  padding: 1em;
+  border: solid;
+}
+
+#content {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.background-image {
+  position: fixed;
+}
+
+.qayyum-title {
+  color: #66CCFF;
+  text-shadow: 1px 1px black;
+  padding-top: 20px;
+}
+
+.qayyum-title2 {
+  color: #FFF;
+  text-shadow: 1px 1px black;
+}
+
+.qayyum-pfp {
+  border-radius: 100%;
+  border : 5px solid #fff;
+}
+
+.qayyum-intro {
+  margin-top: 15%;
+  margin-bottom: 20%;
+}
+
+.skills, .education, .experience {
+  background-color: #3366CC;
+  padding: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.about, .languages, .address {
+  background-color: #fff;
+  padding: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.white {
+  color: #fff;
+}
+
+footer {
+  text-align: center;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  color: #fff;
+}
+
+ul.social-icons {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.social-icons li {
+  display: inline;
+  padding: 5px;
+}
+
+a {
+  color: inherit;
+}
+
+.pull-right {
+  float: right;
+}
